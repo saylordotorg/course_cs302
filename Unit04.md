@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CS302: Software Engineering"
+course_description: "A detailed introduction to the application of engineering approach to computer software design and development. Topics include life cycle models, software requirements, specification, conceptual model design, detailed design, validation and verification, design quality assurance, software design/development environments, and project management."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: Software Requirements Gathering** <span id="4"></span> 
 *Requirements gathering requires the software engineer (in this case, a
 business analyst) to interact with the stakeholders, including customer

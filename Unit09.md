@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CS302: Software Engineering"
+course_description: "A detailed introduction to the application of engineering approach to computer software design and development. Topics include life cycle models, software requirements, specification, conceptual model design, detailed design, validation and verification, design quality assurance, software design/development environments, and project management."
+next: ../Unit10
+previous: ../Unit08
+---
 **Unit 9: Project Management** <span id="9"></span> 
 *Project management in a software engineering environment is unique
 because of the technical aspects of a software project. The project

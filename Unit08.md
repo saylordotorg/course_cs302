@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CS302: Software Engineering"
+course_description: "A detailed introduction to the application of engineering approach to computer software design and development. Topics include life cycle models, software requirements, specification, conceptual model design, detailed design, validation and verification, design quality assurance, software design/development environments, and project management."
+next: ../Unit09
+previous: ../Unit07
+---
 **Unit 8: Software Testing** <span id="8"></span> 
 *Testing is the process of finding errors and is one of the last
 activities in the software life cycle. In testing, we look to validate

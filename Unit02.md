@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CS302: Software Engineering"
+course_description: "A detailed introduction to the application of engineering approach to computer software design and development. Topics include life cycle models, software requirements, specification, conceptual model design, detailed design, validation and verification, design quality assurance, software design/development environments, and project management."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: Software Development Life Cycle Models** <span id="2"></span> 
 *Software development life cycle (SDLC) refers to the process of
 software development. The International Organization for
